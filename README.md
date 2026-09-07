@@ -2,7 +2,7 @@
 
 An end-to-end customer purchase behaviour analysis project: one dataset, three ways to visualize it (HTML/JS dashboard, Python/Streamlit dashboard, static chart script), plus an academic project report.
 
-**Author:** Sellammal S · Reg. No: 25127055 · BSc Computer Science with Data Analytics  
+**Author:** singarasu S · Reg. No: 25127056 · BSc Computer Science with Data Analytics  
 **Course:** Data Analysis using R & Tableau (25BKDC301)
 
 ---
