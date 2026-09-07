@@ -2,7 +2,7 @@
 ==============================================================================
 ONLINE SHOPPING CUSTOMER ANALYSIS (ANALYSIS MODULE)
 ==============================================================================
-Author: Sellammal S (Reg. No: 25127055)
+Author: Singarasu S (Reg. No: 25127056)
 Course: BSc Computer Science with Data Analytics
 Project: Customer Purchase Behaviour Analysis (Mini-Project)
 
